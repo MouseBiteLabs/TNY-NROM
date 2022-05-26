@@ -3,7 +3,13 @@ This is a custom NROM board for the TinyTendo handheld console by <a href="https
 
 NROM games support up to 32 KB space for the PRG ROM and up to 8 KB for the CHR ROM. Since these boards use the 39SF040 for both, you should use FamiROM or some other utility to duplicate the ROM files to completely fill up the entire space on the Flash chip.
 
-# BOM and Board Details
+# Board Characteristics
+
+- Thickness: 1.6 mm
+- Surface Finish: ENIG
+- Chamfered edges (45°)
+
+# Bill of Materials
 
 Capacitors should be at least 16V rated.
 
@@ -15,12 +21,6 @@ Capacitors should be at least 16V rated.
 | C2  | 100 nF (ceramic) | 0603  |
 | C3  | 100 nF (ceramic) | 0603  |
 | R1  | 47 kΩ (ceramic) | 0603  |
-
-## Suggested Board Characteristics
-
-- Thickness: 1.6 mm
-- Surface Finish: ENIG
-- Chamfered edges (45°)
 
 # H/V Pads
 
@@ -37,7 +37,7 @@ NROM games usually will have H and V pads on the PCB, you can find the original 
 
 ## TNY-NROM-01
 
-Initial version.
+- Initial version
 
 # License:
 Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)
