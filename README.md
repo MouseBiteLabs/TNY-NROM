@@ -1,5 +1,5 @@
 # TNY-NROM
-This is a custom NROM board for the TinyTendo handheld console by <a href="https://github.com/Redherring32">Redherring32</a>. This board replicates <a href="https://www.nesdev.org/wiki/NROM">standard NROM NES boards</a> - the simplest board type, used for many of the earliest NES games like Duck Hunt, Balloon Fight, and one of the most popular NES games that created millions of gamers... <a href="https://nescartdb.com/profile/view/1076/chubby-cherub">Chubby Cherub</a>!
+This is a custom NROM board for the TinyTendo handheld console by <a href="https://github.com/Redherring32">Redherring32</a>. This board replicates <a href="https://www.nesdev.org/wiki/NROM">standard NROM NES boards</a> - the simplest board type, used for many of the earliest NES games like Duck Hunt, Balloon Fight, and one of the most popular NES games that created millions of gamers and cemented Nintendo as a top-tier video game company for decades to come... <a href="https://nescartdb.com/profile/view/1076/chubby-cherub">Chubby Cherub</a>!
 
 NROM games support up to 32 KB space for the PRG ROM and up to 8 KB for the CHR ROM. Since these boards use the 39SF040 for both, you should use FamiROM or some other utility to duplicate the ROM files to completely fill up the entire space on the Flash chip.
 
