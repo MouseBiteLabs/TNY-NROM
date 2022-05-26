@@ -18,9 +18,9 @@ Capacitors should be at least 16V rated.
 
 ## Suggested Board Characteristics
 
-Thickness: 1.6 mm
-Surface Finish: ENIG
-Chamfered edges (45°)
+- Thickness: 1.6 mm
+- Surface Finish: ENIG
+- Chamfered edges (45°)
 
 # H/V Pads
 
