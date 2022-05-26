@@ -5,14 +5,16 @@ NROM games support up to 32 KB space for the PRG ROM and up to 8 KB for the CHR 
 
 # BOM
 
+Capacitors should be at least 16V rated.
+
 | Reference Designator  | Part Number/Value | Footprint  |
 | ------------- | ------------- | ------------- |
 | U2  | <a href="https://www.mouser.com/ProductDetail/Microchip-Technology/SST39SF040-70-4C-WHE?qs=Oo69DRhzroe%2FJKrgAmUE5Q%3D%3D">39SF040</a>  | TSOP32  |
 | U3  | <a href="https://www.mouser.com/ProductDetail/Microchip-Technology/SST39SF040-70-4C-WHE?qs=Oo69DRhzroe%2FJKrgAmUE5Q%3D%3D">39SF040</a>  | TSOP32  |
-| C1  | 22 uF  | 1206  |
-| C2  | 100 nF  | 0603  |
-| C3  | 100 nF  | 0603  |
-| R1  | 47 kΩ  | 0603  |
+| C1  | 22 uF (tantalum) | 1206  |
+| C2  | 100 nF (ceramic) | 0603  |
+| C3  | 100 nF (ceramic) | 0603  |
+| R1  | 47 kΩ (ceramic) | 0603  |
 
 # H/V Pads
 
