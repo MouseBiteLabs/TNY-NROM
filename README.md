@@ -3,6 +3,8 @@ This is a custom NROM board for the TinyTendo handheld console by <a href="https
 
 NROM games support up to 32 KB space for the PRG ROM and up to 8 KB for the CHR ROM. Since these boards use the 39SF040 for both, you should use FamiROM or some other utility to duplicate the ROM files to completely fill up the entire space on the Flash chip.
 
+<a href="https://www.infiniteneslives.com/inlretro.php">You can use INL's programmer to load the PRG and CHR ROMs.</a>
+
 # Board Characteristics
 
 - Thickness: 1.6 mm
