@@ -22,7 +22,7 @@ Capacitors should be at least 16V rated.
 | C1  | 22 uF (tantalum) | 1206  |
 | C2  | 100 nF (ceramic) | 0603  |
 | C3  | 100 nF (ceramic) | 0603  |
-| R1  | 47 kΩ (ceramic) | 0603  |
+| R1  | 47 kΩ | 0603  |
 
 # H/V Pads
 
